@@ -7,15 +7,18 @@
 	body{
 
 }
-}
+
 a{
-	color:gray;
+	color:blacks;
 	text-decoration:none;
+	font-size: 25px;
+	margin-left: 10px;
 }
 
 a:hover{
 	color:black;
 	background:white;
+	text-decoration: none;
 }
 
 .greenlink:hover{
@@ -25,8 +28,32 @@ a:hover{
 
 
 h1{
-		font-family:monospace;
-		font-size: 24pt;
+		font-family:'Book Antiqua';
+		font-size: 30pt;
+		text-align: center;
+}
+p{
+line-height: 2.0;
+font-size: 15pt;
+}
+.thick{
+	font-weight: bold;
+}
+li{
+line-height: 2.0;
+font-size: 15pt;
+}
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.warning{
+font-size:90px;
+color:red;
+}
+h3{
+	text-align: center;
 }
 
 .indent {
