@@ -25,6 +25,29 @@ ul.tab li a {
 
 ul.tab li a:hover {background-color: #ddd;}
 
+
+#creativity {
+border: 2px solid black;
+height: 50px;
+width: 150px;
+background-color: blue;
+color: white;
+}
+#activity {
+border: 2px solid black;
+width: 150px;
+height: 50px;
+background-color: red;
+color: white;
+}
+#service {
+border: 2px solid black;
+width: 150px;
+height: 50px;
+background-color: green;
+color: white;
+}
+
 a{
 	color:blacks;
 	text-decoration:none;
@@ -69,6 +92,38 @@ font-size: 15pt;
 font-size:90px;
 color:red;
 }
+p.hours{
+color: white;
+font-size: 15px;
+text-align: center;
+border-style: solid;
+border-width: medium;
+border-color:black;
+height: 35px;
+background: red;
+}
+p.hours1{
+color: white;
+font-size: 15px;
+text-align: center;
+border-style: solid;
+border-width: medium;
+border-color:black;
+height: 35px;
+background: blue;
+}
+p.hours2{
+color: white;
+font-size: 15px;
+text-align: center;
+border-style: solid;
+border-width: medium;
+border-color:black;
+height: 35px;
+background: green;
+}
+
+
 h3{
 	text-align: center;
 }
